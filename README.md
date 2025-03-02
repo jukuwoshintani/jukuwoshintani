@@ -28,7 +28,7 @@
 ## Контакты
 Если у вас есть вопросы, предложения или хотите сотрудничать, свяжитесь со мной:
 
-- **Telegram:** [@yourtelegram](https://t.me/jukuwoshintani)
+- **Telegram:** [@jukuwoshintani](https://t.me/jukuwoshintani)
 - **Email:** [khayfullina.lera@mail.ru](khayfullina.lera@mail.ru)
 
 ---
